@@ -1,2 +1,2 @@
-# RangaNew.github.io
-Resume
+# Ranga.github.io
+Portfolio
